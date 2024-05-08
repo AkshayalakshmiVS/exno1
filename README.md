@@ -1,5 +1,10 @@
 <h1 align="center">Ex. 1   Data Cleaning and Outlier Detection & Removal</h1>
 
+###  DATE: 08-04-2024
+
+###  NAME: AKSHAYA LAKSHMI VS
+###  ROLL NO : 212222040005
+###  DEPARTMENT:CSE
 
 ## AIM
 ### To read the given data and perform data cleaning and save the cleaned data to a file.
